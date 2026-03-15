@@ -1,1 +1,0 @@
-# gaming-lottery-app
